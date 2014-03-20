@@ -2,7 +2,7 @@
 #############################################
 #
 # Given two variables called 'width' and 'height'
-# print the area of a recrangle
+# print the area of a rectangle
 #
 #############################################
 
